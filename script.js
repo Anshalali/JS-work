@@ -74,7 +74,7 @@ console.log(lastlatterofFirstName)
 
 function wordBlanks(myNoun, myAddjective, myVerb, myAddverb) {
     var result = "";
-    result += "my " + myAddjective + " " + myNoun + " " + myVerb + " " + myAddverb + " " + "for the uni" + ".";
+    result += "My " + myAddjective + " " + myNoun + " " + myVerb + " " + myAddverb + " " + "for the uni" + ".";
     return result;
 }
 console.log(wordBlanks("brother", "little", "got", "late"));
