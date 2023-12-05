@@ -11,6 +11,4 @@ b -= 13;
 c *= 7;
 d /= 4;
 f %= 7;
-console.log(f)
-
-
+console.log(d)
