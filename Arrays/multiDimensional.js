@@ -1,4 +1,5 @@
-// find a variable in multiple variables and find any number or caracter in array (access multi-dimensional arrays with index)
+// find a variable in multiple variables and find any number or caracter in array
+// (access multi-dimensional arrays with index)
 
 var myArray = [
     [1, 2, 3],
