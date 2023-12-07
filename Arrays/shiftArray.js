@@ -7,4 +7,4 @@ console.log(removeFromMyArray)
 
 var myArray = [["dogs", 5], ["ctas", 3], ["hat", 1]];
 myArray.shift();
-console.log(myArray)
+console.log(removeFromMyArray)
