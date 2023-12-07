@@ -2,9 +2,9 @@
 // (manipulate arrays with pop)
 
 var myArray =[["balls", 20], ["bats", 3], ["helmet", 1]];
-myArray.pop(["helmet", 1]);
-console.log(myArray)
+var removeFromMyArray = myArray.pop();
+console.log(removeFromMyArray)
 
-var myArray =[["bikes", 20], ["cars", 3], ["bus", 1]];
+var myArray = [["bikes",7], ["cars", 4], ["bus", 1]];
 myArray.pop();
 console.log(myArray)
