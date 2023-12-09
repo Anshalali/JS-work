@@ -1,8 +1,6 @@
-// passing values function it can be used to pass values to a function
-// (passing values to functions with arguments)
+// global scope function it can be used to execute a function in global scope and we can use it whole environment of our project
+// (global scope function)
 
-function functionWithArgs(a, b) {
-    console.log(a + b);
-}
-
-functionWithArgs(10, 10);
+function executeInGlobalScope(func) {
+    func.call(this);
+  }
