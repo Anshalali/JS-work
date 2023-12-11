@@ -5,4 +5,4 @@ function functionWithArgs(a, b) {
     console.log(a + b);
 }
 
-functionWithArgs(10, 10);
+functionWithArgs(20, 10);
