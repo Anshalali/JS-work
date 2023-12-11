@@ -5,4 +5,4 @@ function timesix(num) {
     return num * 6;
 }
 
-console.log(timesix(6));
+console.log(timesix(4));
