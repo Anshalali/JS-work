@@ -1,4 +1,4 @@
-// stand in line (abstract data stracture) it can be used when we want remove the first item in an array and add new item at the end
+// stand in line (abstract data stracture) it can be used when we want to  some changes in a queue then we remove first item in an array and add new item at the end
 // (manipulate arrays with shift and unshift)
 
 function nextinLine(arr, item) {
