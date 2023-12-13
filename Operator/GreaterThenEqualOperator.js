@@ -1,4 +1,4 @@
-// comparison greater then or equal to operator it can be used to check if a value is greater or equal to another value returns true if the left operand is greater than or equal to the right operand, and false otherwise.
+// Comparison greater then or equal to operator it can be used to check if a value is greater or equal to another value returns true if the left operand is greater than or equal to the right operand, and false otherwise.
 // comparison greater then or equal to operator
 
 function testGreaterThenOrEqual(val) {
