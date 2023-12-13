@@ -1,4 +1,4 @@
-// comparison equality operator it can be used to compare values
+// Comparison equality operator it can be used to compare values
 // (comparison equality operator)
 
 function testEqual(val) {
