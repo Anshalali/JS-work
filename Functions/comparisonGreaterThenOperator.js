@@ -1,4 +1,4 @@
-// comparison greater then operator it can be used to compare two values
+// comparison greater then operator it can be used to compare two values if right value is greater then left value it will return true
 // greater then operator
 
 function testGreaterThen(val) {
