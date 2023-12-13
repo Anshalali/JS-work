@@ -1,4 +1,4 @@
-//comparison less than operator it can be used to compare two values if left value is less than to right value it will return true
+//Comparison less than operator it can be used to compare two values if left value is less than to right value it will return true
 // comparison less than operator
 
 function testLessThan(val) {
