@@ -1,4 +1,4 @@
-// comparison less than equal operator it can be used to check if a value is less than or equal to another value  returns true if the left operand is less than or equal to the right operand, and false otherwise
+// Comparison less than equal operator it can be used to check if a value is less than or equal to another value  returns true if the left operand is less than or equal to the right operand, and false otherwise
 // comparison less than equal operator
 
 function testLessThenOrEqual(val) {
