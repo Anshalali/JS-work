@@ -1,3 +1,5 @@
+// how to check your grades using javascript
+
 var grade = ["A+", "A", "B", "C", "D", "F"];
 
 function checkyourgrade(marks) {
