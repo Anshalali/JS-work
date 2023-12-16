@@ -1,4 +1,4 @@
-// introducing else if statement it can be used to check multiple conditions if the one value is false then it can be used to check another value if 2nd value is false then it can be used to check 3rd value
+// Introducing else if statement it can be used to check multiple conditions if the one value is false then it can be used to check another value if 2nd value is false then it can be used to check 3rd value
 // (introducing else if statement)
 
 function testElseIf(val) {
