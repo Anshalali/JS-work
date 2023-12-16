@@ -1,4 +1,4 @@
-// chaining if else statements it is possible to chain if else statements we can create multiple if else statements like chain or group
+// Chaining if else statements it is possible to chain if else statements we can create multiple if else statements like chain or group
 // (chaining if else statements)
 
 function testSize(num){
