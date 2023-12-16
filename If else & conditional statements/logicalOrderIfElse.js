@@ -1,4 +1,4 @@
-// logical order if else statements it will execute from top to bottom
+// Logical order if else statements it will execute from top to bottom
 //(logical order if else)
 
 function orderMyLogic(val) {
