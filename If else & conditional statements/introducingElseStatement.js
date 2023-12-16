@@ -1,4 +1,4 @@
-// introducing else statement it is used to execute code if the condition is false use else if to specify a new condition to test if the first condition is false.
+// Introducing else statement it is used to execute code if the condition is false use else if to specify a new condition to test if the first condition is false.
 // (introducing else statements)
 
 function testElse(val) {
