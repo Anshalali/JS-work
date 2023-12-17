@@ -9,3 +9,4 @@ function procesArg(num) {
 
 processed = procesArg(15);
 console.log(processed)
+console.log(processed)
