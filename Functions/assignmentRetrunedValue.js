@@ -1,4 +1,4 @@
-// assignment with a returned value of function it can be used to assign a value to a variable
+// Assignment with a returned value of function it can be used to assign a value to a variable
 // (assignment with a returned value)
 
 var processed = 0;
@@ -8,5 +8,4 @@ function procesArg(num) {
 }
 
 processed = procesArg(15);
-console.log(processed)
 console.log(processed)
