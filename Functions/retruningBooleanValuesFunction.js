@@ -5,4 +5,4 @@ function isLess(a, b) {
     return a < b;
 }
   
-console.log(isLess(50, 40));
+console.log(isLess(10, 30));
