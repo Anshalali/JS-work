@@ -1,10 +1,11 @@
-// record collection it can be used to store a collection of records
+// record collection it can be used to store a collection of records we can add, new update or new data in objects using function
 
 var collection = {
     "2548": {
       "album": "Slippery When Wet",
       "artist": "Bon Jovi",
       "tracks": [ 
+        "1998",
         "Let It Rock", 
         "You Give Love a Bad Name" 
       ]
@@ -22,7 +23,7 @@ var collection = {
       "tracks": [ ]
     },
     "5439": {
-      "album": "ABBA Gold"
+      "album": "ABBA Gold",
     }
 };
 
@@ -41,4 +42,5 @@ function updateRecords(id, prop, value) {
   return collection;
 }
 
-console.log(updateRecords(5439, "tracks", "Take a Chance on Me"))
+updateRecords(5439, "artist", "charlie puth")
+console.log(updateRecords(5439, "track", "let me down slowly"))
