@@ -1,4 +1,4 @@
-
+// backword for loops it can be use to count backword back from start to end of array
 
 var myArray = [];
 
