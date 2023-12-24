@@ -34,7 +34,7 @@
 // }
 
 
-for ( var a = 65; a <= 89; a++) {
+for ( var a = 65; a <= 90; a++) {
     var letter = String.fromCharCode(a);
 }
 console.log(letter);

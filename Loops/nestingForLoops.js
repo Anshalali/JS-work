@@ -1,4 +1,4 @@
-  // nesting for loops it is used to execute a block of code a specified number of times it repeats until a specified condition evaluates to false
+  // Nesting for loops it is used to execute a block of code a specified number of times it repeats until a specified condition evaluates to false
 
 function multiplyAll(arr) {
     var product = 1;
