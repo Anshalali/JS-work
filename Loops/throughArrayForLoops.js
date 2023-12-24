@@ -1,4 +1,4 @@
-
+// through array for loops it can be used to loop through an array
 
 var myArray = [4, 3, 8, 9, 1, 2];
 var total = 0;
