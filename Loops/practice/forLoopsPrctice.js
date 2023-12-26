@@ -70,8 +70,17 @@ for (var a = 65; a <= 90; a++) {
 
 
 // print small letter alphabet using for loop
-for (let i = 97; i <= 122; i++) {
-    const alphabet = String.fromCharCode(i);
-    console.log(alphabet);
+for (var i = 97; i <= 122; i++) {
+    var alphabet = String.fromCharCode(i);
+    // console.log(alphabet);
 }
 
+
+
+// print small letter alphabet except 'a', 'e', 'i', 'o', 'u' using for loop
+for (var i = 'a'.charCodeAt(0); i <= 'z'.charCodeAt(0); i++) {
+    var alphabet = String.fromCharCode(i);
+    if (!['a', 'e', 'i', 'o', 'u'].includes(alphabet)) {
+        // console.log(alphabet);
+    }
+}
